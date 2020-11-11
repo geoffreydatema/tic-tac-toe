@@ -1,0 +1,16 @@
+Objective
+
+    The goal with this exercise is to create a simple tic tac toe game which can identify if one player wins, or if the game ends in a draw. 
+
+Requirements
+
+    In the HTML file, there must be a 3x3 grid (the squares of the tic tac toe game)
+
+    Using a single, delegated event, add either an X or O to a cell when it is clicked on
+
+    Simply alternate between adding an X or O using the same event
+
+    Once a cell is filled with a character, prevent it from being changed if it is clicked again
+
+    Determine if either X or O has won, or if the game has ended in a draw
+    
